@@ -57,7 +57,7 @@ public class CompClubIntroduction {
     }
 
     @Hello
-    public void example1() {
+    public void instructions() {
         System.out.println("---- Instructions ----");
         System.out.println("This is an example of a method that is run. ");
         System.out.println("Write a method with the annotation with @Hello "
